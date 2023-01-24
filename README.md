@@ -1,4 +1,4 @@
-# K-Means Algorithm using python with numpy only
+# K-Means Algorithm using python with Numpy only
 
 you can see the locations of the centroids inside the clusters improve at each iteration
 <p float="left">
